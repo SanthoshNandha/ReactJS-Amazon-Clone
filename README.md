@@ -1,1 +1,1 @@
-# ReactJS-Amazon_Clone
+# ReactJS-Amazon-Clone
