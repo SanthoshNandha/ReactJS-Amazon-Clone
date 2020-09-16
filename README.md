@@ -20,13 +20,10 @@
 ---
 
 ## Login
----
 ![Login Page](https://clone-test-76524.web.app/screens/login.png)
 
 ## Home Page
----
 ![Home Page](https://clone-test-76524.web.app/screens/home.png)
 
 ## Checkout and Subtotal
----
 ![Checkout Page](https://clone-test-76524.web.app/screens/checkout.png)
